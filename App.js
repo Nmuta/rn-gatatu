@@ -52,8 +52,9 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: 'orange',
+    backgroundColor: 'black',
     width: width * 0.5,
+    fontSize: 20,
   },
   rightBox: {
     flex: 1,
